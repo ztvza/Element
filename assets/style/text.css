@@ -21,6 +21,10 @@
 	line-height: 140.1%;
 }
 
+.textcenter {
+	text-align: center; 
+}
+
 .text.-gray.-top {
 	margin-top: 5px;
 }

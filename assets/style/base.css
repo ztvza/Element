@@ -20,6 +20,14 @@ body {
 	justify-content: space-between;
 }
 
+.flex.-center.-around.-margin {
+	margin-top: 29px;
+}
+
+.flex.-center2 {
+	justify-content: center;
+}
+
 .last {
 	margin-right: 40px;
 }
