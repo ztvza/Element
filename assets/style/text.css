@@ -1,0 +1,40 @@
+.text {
+	font-size: 14px;
+}
+
+.title.-time {
+	font-weight: 700;
+	font-size: 30px;
+}
+
+.title.-weather {
+	font-size: 24px;
+	margin-left: 10px;
+}
+
+.name {
+	margin-top: 20px;
+	margin-bottom: 5px;
+}
+
+.text.-gray {
+	line-height: 140.1%;
+}
+
+.text.-gray.-top {
+	margin-top: 5px;
+}
+
+.text.-gray.-bottom {
+	margin-bottom: 5px;
+}
+
+.subtitle {
+	font-size: 15px;
+}
+
+.subtitle.-big {
+	font-size: 18px;
+	font-weight: 500;
+	margin-bottom: 21px;
+}
