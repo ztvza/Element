@@ -4,5 +4,22 @@
 	background: #EEF7FE;
 	border-radius: 5px;
 	border: 0px;
-	margin-top: 20px;
+}
+
+.clasic {
+	width: 50%;
+	height: 70px;
+	margin-right: 20px;
+	margin-top: 50px;
+	border-radius: 16px;
+	border: 2px solid var(--color-blue);
+	background-color: #FFFFFF;
+}
+
+.clasic.-all {
+	background-color: var(--color-blue);
+}
+
+.clasic:last-child {
+	margin-right: 0px;
 }

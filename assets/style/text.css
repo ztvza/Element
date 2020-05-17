@@ -1,20 +1,37 @@
 .text {
 	font-size: 14px;
+	color: var(--color-blue);
+}
+
+.month {
+	color: var(--color-blue);
+	font-size: 38px; 
 }
 
 .title.-time {
+	color: var(--color-blue);
 	font-weight: 700;
 	font-size: 30px;
 }
 
 .title.-weather {
+	color: var(--color-blue);
 	font-size: 24px;
 	margin-left: 10px;
 }
 
 .name {
+	color: var(--color-blue);
 	margin-top: 20px;
 	margin-bottom: 5px;
+}
+
+.name.-margin {
+	margin: 0px;
+}
+
+.name.-white {
+	color: #E6E6FF;
 }
 
 .text.-gray {
@@ -23,6 +40,7 @@
 
 .textcenter {
 	text-align: center; 
+	padding: 0px 20px 0px 20px;
 }
 
 .text.-gray.-top {
@@ -34,6 +52,7 @@
 }
 
 .subtitle {
+	color: var(--color-blue);
 	font-size: 15px;
 }
 

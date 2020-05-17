@@ -3,7 +3,15 @@
 	height: 23px;
 }
 
+.avatar {
+	margin-bottom: 	20px;
+}
+
 .Learn {
 	width: 100%;
 	margin-bottom: 30px;
+}
+
+.networks {
+	height: 1%;
 }
