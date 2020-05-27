@@ -19,41 +19,18 @@ body {
     margin-right: 2px;
 }
 
+.network {
+	margin-top: 34px;
+	display: flex;
+	justify-content: space-around;
+}
+
 .block {
 	margin-right: 10px;
 }
 
 .block:last-child {
 	margin-right: 0px;
-}
-
-.flex {
-	display: flex;
-}
-
-.flex.-center {
-	align-items: center;
-	justify-content: space-between;
-}
-
-.flex.-center.-margin {
-	margin-top: 24px;
-}
-
-.flex.-around {
-	justify-content: space-around;
-}
-
-.flex.-networks {
-	margin-top: 34px;
-}
-
-.flex.-center.-around.-margin {
-	margin-top: 29px;
-}
-
-.flex.-center2 {
-	justify-content: center;
 }
 
 .last {

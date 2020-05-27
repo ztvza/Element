@@ -1,0 +1,36 @@
+.elips {
+	width: 60px;
+	height: 60px;
+	border-radius: 50%;
+	background-color: var(--color-blue);
+	padding: 23px;
+	padding-top: 15px; 
+}
+
+.plus {
+	color: var(--color-white);
+	font-size: 25px;
+}
+
+.dot {
+	width: 10px;
+	height: 10px;
+	border-radius: 50%;
+	margin-right: 10px;
+}
+
+.dot.-blue {
+	background-color: #567DF4;
+}
+
+.dot.-dark {
+	background-color: var(--color-blue);
+}
+
+.dot.-yellow {
+	background-color: #FFC700;
+}
+
+.dot.-green {
+	background-color: #4CE364;
+}

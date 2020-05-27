@@ -7,6 +7,10 @@
 	margin-bottom: 	20px;
 }
 
+.check {
+	margin-right: 14px;
+}
+
 .Learn {
 	width: 100%;
 	margin-bottom: 30px;
@@ -14,4 +18,18 @@
 
 .networks {
 	height: 1%;
+}
+
+.download {
+	width: 25px;
+	height: 24px;
+	margin-right: 10px;
+}
+
+.search {
+	margin-right: 10px;
+}
+
+.Notification {
+	margin-right: 14px;
 }

@@ -1,0 +1,45 @@
+.flex {
+	display: flex;
+}
+
+.flex.-end {
+	justify-content: flex-end; 
+	margin-top: 68px;
+}
+
+.flex.-center {
+	align-items: center;
+	justify-content: space-between;
+}
+
+.flex.-center.-margin {
+	margin-top: 24px;
+}
+
+.flex.-around {
+	justify-content: space-around;
+}
+
+.flex.-networks {
+	margin-top: 34px;
+}
+
+.flex.-center.-around.-margin {
+	margin-top: 29px;
+}
+
+.flex.-center2 {
+	justify-content: center;
+}
+
+.flex.-center3 {
+	align-items: center;
+}
+
+.flex.-center3.-margin {
+	margin-bottom: 10px;
+}
+
+.flex.-center3.-margin:last-child {
+	margin-bottom: 0px;
+}
