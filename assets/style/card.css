@@ -44,10 +44,6 @@
 	width: 476px;
 }
 
-.card.-profile {
-	width: 476px;
-}
-
 .card.-load {
 	padding: 20px 30px;
 	width: 476px;
@@ -67,4 +63,10 @@
 
 .card.-diagram {
 	height: 248px;
+}
+
+@media screen and (max-width: 487px) {
+	.card {
+		width: 100%;
+	}
 }

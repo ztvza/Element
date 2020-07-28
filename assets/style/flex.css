@@ -43,3 +43,9 @@
 .flex.-center3.-margin:last-child {
 	margin-bottom: 0px;
 }
+
+@media screen and (max-width: 768px){
+	.flex.-none {
+		display: block;
+	}
+}

@@ -36,3 +36,19 @@ body {
 .last {
 	margin-right: 40px;
 }
+
+@media screen and (max-width: 1024px) {
+	.block.-center {
+		display: flex;
+	}
+}
+
+@media screen and (max-width: 768px) {
+	.block.-center {
+		justify-content: center;
+	}
+	.block.-last {
+		display: flex;
+		justify-content: center;
+	}
+}
