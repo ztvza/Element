@@ -41,12 +41,10 @@
 
 .card.-calendar {
 	padding: 30px 54px 30px 54px;
-	width: 476px;
 }
 
 .card.-load {
 	padding: 20px 30px;
-	width: 476px;
 	height: 102px;
 	background: linear-gradient(to right, var(--color-lightblue) 65%, white 35%);
 }
@@ -63,6 +61,18 @@
 
 .card.-diagram {
 	height: 248px;
+}
+
+@media screen and (max-width: 1024px) {
+	.card {
+		width: auto;
+	}
+}
+
+@media screen and (max-width: 768px) {
+	.card {
+		width: 475px;
+	}
 }
 
 @media screen and (max-width: 487px) {

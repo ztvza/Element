@@ -2,6 +2,10 @@
 	display: flex;
 }
 
+.flex.-none {
+	display: block;
+}
+
 .flex.-end {
 	justify-content: flex-end; 
 	margin-top: 68px;
@@ -42,6 +46,12 @@
 
 .flex.-center3.-margin:last-child {
 	margin-bottom: 0px;
+}
+
+@media screen and (max-width: 1024px) {
+	.flex.-none {
+		display: flex;
+	}
 }
 
 @media screen and (max-width: 768px){
