@@ -61,6 +61,8 @@
 
 .card.-diagram {
 	height: 248px;
+	display: flex;
+	justify-content: space-between;
 }
 
 @media screen and (max-width: 1024px) {
@@ -69,7 +71,7 @@
 	}
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 850px) {
 	.card {
 		width: 475px;
 	}
@@ -77,6 +79,6 @@
 
 @media screen and (max-width: 487px) {
 	.card {
-		width: 100%;
+		min-width: 100%;
 	}
 }
